@@ -1,0 +1,211 @@
+Year of Breach,Company Name,Total Records,Type of Organization,Type of Breach
+2008,GS Caltex,11100000,energy,INSD
+2008,Stanford University,72000,EDU,STAT
+2008,UK Home Office,84000,GOV,STAT
+2008,UK Ministry of Defence,1700000,GOV,STAT
+2008,University of Miami,2100000,EDU,STAT
+2008,University of Utah Hospital & Clinics,2200000,EDU,STAT
+2008,Starbucks,97000,BSR,STAT
+2008,Ministry of Education (Chile),6000000,GOV,DISC
+2008,Service Personnel and Veterans Agency (UK),50500,GOV,STAT
+2008,The Bank of New York Mellon,12500000,BSF,STAT
+2008,"Jefferson County, West Virginia",1600000,GOV,DISC
+2008,Norwegian Tax Administration,3950000,GOV,DISC
+2008,RBS Worldpay,1500000,BSF,HACK
+2008,AT&T,113000,telecoms,STAT
+2008,"Data Processors International (MasterCard, Visa, Discover Financial Services and American Express)",8000000,BSF,HACK
+2008,Auction.co.kr,18000000,BSR,HACK
+2009,"AvMed, Inc.",1220000,MED,STAT
+2009,RockYou!,32000000,"BSR, gaming",HACK
+2009,"University of California, Berkeley",160000,EDU,HACK
+2009,Virginia Prescription Monitoring Program,531400,MED,HACK
+2009,Virginia Department of Health,8257378,"GOV, MED",HACK
+2009,National Guard of the United States,131000,military,STAT
+2009,Heartland,130000000,BSF,HACK
+2009,Health Net,500000,MED,STAT
+2009,Network Solutions,573000,tech,HACK
+2009,U.S. Department of Defense,72000,military,STAT
+2009,National Archives and Records Administration (U.S. military veterans records),76000000,military,STAT
+2009,BlueCross BlueShield of Tennessee,1023209,MED,STAT
+2009,CheckFree Corporation,5000000,BSF,HACK
+2010,Ohio State University,760000,EDU,HACK
+2010,Lincoln Medical & Mental Health Center,130495,MED,STAT
+2010,"South Shore Hospital, Massachusetts",800000,MED,STAT
+2010,Educational Credit Management Corporation,3300000,BSF,STAT
+2010,Embassy Cables,251000,GOV,INSD
+2010,"Emergency Healthcare Physicians, Ltd.",180111,MED,STAT
+2010,Federal Reserve Bank of Cleveland,400000,BSF,HACK
+2010,Gawker,1500000,BSR,HACK
+2010,Puerto Rico Department of Health,515000,MED,HACK
+2010,"Seacoast Radiology, PA",231400,MED,HACK
+2010,U.S. Army(classified Iraq War documents),392000,GOV,INSD
+2010,Colorado government,105470,MED,STAT
+2010,New York City Health & Hospitals Corp.,1700000,MED,STAT
+2010,"Triple-S Salud, Inc.",398000,MED,STAT
+2010,Yale University,43000,EDU,DISC
+2010,Betfair,2300000,BSR,HACK
+2010,AT&T,114000,telecoms,HACK
+2010,U.S. government (United States diplomatic cables leak),260000,military,INSD
+2010,JP Morgan Chase,2600000,BSF,STAT
+2011,San Francisco Public Utilities Commission,180000,GOV,HACK
+2011,Massachusetts Government,210000,GOV,HACK
+2011,Memorial Healthcare System,102153,MED,STAT
+2011,Restaurant Depot,200000,BSR,HACK
+2011,NHS,8300000,MED,STAT
+2011,Morgan Stanley Smith Barney,34000,BSF,STAT
+2011,Honda Canada,283000,BSR,HACK
+2011,Health Net — IBM,1900000,MED,STAT
+2011,Nexon Korea Corp,13200000,BSR,HACK
+2011,Nemours Foundation,1055489,MED,STAT
+2011,Spartanburg Regional Healthcare System,400000,MED,STAT
+2011,Sony Online Entertainment,24600000,gaming,HACK
+2011,University of Wisconsin–Milwaukee,73000,EDU,HACK
+2011,Tricare,4901432,"military, MED",STAT
+2011,China Software Developer Network,6000000,BSR,HACK
+2011,"Chinese gaming websites (three: Duowan, 7K7K, 178.com)",10000000,BSR,HACK
+2011,Citigroup,360083,BSF,HACK
+2011,Tianya Club,28000000,BSR,HACK
+2011,Sega,1290755,gaming,HACK
+2011,U.S. law enforcement (70 different agencies),123461,GOV,DISC
+2011,Washington Post,1270000,media,HACK
+2011,Countrywide Financial Corp,2500000,BSF,INSD
+2011,U.S. Army,50000,military,DISC
+2011,Sutter Medical Center,4243434,MED,STAT
+2011,Steam,35000000,BSR,HACK
+2011,Writerspace.com,62000,BSR,HACK
+2011,State of Texas,3500000,GOV,DISC
+2011,Southern California Medical-Legal Consultants,300000,MED,HACK
+2011,Eisenhower Medical Center,514330,MED,STAT
+2011,Sony PlayStation Network,77000000,gaming,HACK
+2011,Sony Pictures,1000000,BSR,HACK
+2011,Stratfor,935000,military,DISC
+2011,Bethesda Game Studios,200000,gaming,HACK
+2012,US Medicaid,780000,"GOV, MED",HACK
+2012,Massive American business hack including 7-Eleven and Nasdaq,160000000,BSF,HACK
+2012,Yahoo! Voices,450000,BSR,HACK
+2012,TD Bank,260000,BSF,HACK
+2012,New York State Electric & Gas,1800000,energy,INSD
+2012,Office of the Texas Attorney General,6500000,GOV,DISC
+2012,"LinkedIn, eHarmony, Last.fm",8000000,BSR,DISC
+2012,Rambler.ru,98167935,BSR,HACK
+2012,South Carolina Government,6400000,MED,INSD
+2012,Syrian government (Syria Files),2434899,GOV,HACK
+2012,Militarysingles.com,163792,"BSR, military",DISC
+2012,Zappos,24000000,BSR,HACK
+2012,KT Corporation,8700000,telecoms,HACK
+2012,Formspring,420000,BSR,DISC
+2012,Greek government,9000000,GOV,HACK
+2012,Emory Healthcare,315000,MED,HACK
+2012,Dropbox,68648009,BSR,HACK
+2012,Gamigo,8000000,BSR,HACK
+2012,"Iranian banks (three: Saderat, Eghtesad Novin, and Saman)",3000000,BSF,HACK
+2012,California Department of Child Support Services,800000,GOV,STAT
+2012,Global Payments,7000000,BSF,HACK
+2012,Blizzard Entertainment,14000000,gaming,HACK
+2013,Ubuntu,2000000,tech,HACK
+2013,Adobe Systems Incorporated,152000000,tech,HACK
+2013,Florida Department of Juvenile Justice,100000,GOV,STAT
+2013,Scribd,500000,BSR,HACK
+2013,Facebook,6000000,social network,DISC
+2013,SnapChat,4700000,"BSR, tech",HACK
+2013,Yahoo Japan,22000000,"tech, BSR",HACK
+2013,Evernote,50000000,BSR,HACK
+2013,South Africa police,16000,GOV,HACK
+2013,Yahoo,3000000000,BSR,HACK
+2013,Dun & Bradstreet,1000000,tech,HACK
+2013,"Crescent Health Inc., Walgreens",100000,MED,STAT
+2013,Target Corporation,110000000,BSR,HACK
+2013,Vodafone,2000000,telecoms,INSD
+2013,Citigroup,150000,BSF,HACK
+2013,Central Hudson Gas & Electric,110000,energy,HACK
+2013,"Affinity Health Plan, Inc.",344579,MED,STAT
+2013,Tumblr,65469298,BSR,HACK
+2013,Twitter,250000,BSR,HACK
+2013,Washington State court system,160000,GOV,HACK
+2013,TerraCom & YourTel,170000,telecoms,DISC
+2013,Drupal,1000000,BSR,HACK
+2013,Nintendo (Club Nintendo),240000,gaming,HACK
+2013,Kroll Background America,1000000,tech,HACK
+2013,Living Social,50000000,BSR,HACK
+2013,Kirkwood Community College,125000,EDU,HACK
+2014,eBay,145000000,BSR,HACK
+2014,LexisNexis,1000000,tech,HACK
+2014,Home Depot,56000000,BSR,HACK
+2014,Domino's Pizza (France),600000,BSR,HACK
+2014,Benesse,35040000,educational services,HACK
+2014,New York Taxis,52000,transport,HACK
+2014,Neiman Marcus,1100000,BSR,HACK
+2014,Community Health Systems,4500000,MED,HACK
+2014,Mozilla,76000,BSR,HACK
+2014,JP Morgan Chase,76000000,BSF,HACK
+2014,Uber,50000,tech,HACK
+2014,AOL,2400000,BSR,HACK
+2014,"University of Maryland, College Park",300000,EDU,HACK
+2014,Michaels,3000000,BSR,HACK
+2014,Korea Credit Bureau,20000000,BSF,INSD
+2014,Gmail,5000000,BSR,HACK
+2014,Yahoo,500000000,BSR,HACK
+2014,MacRumors.com,860000,BSR,HACK
+2014 and 2015,Hilton Hotels,363000,hotel,HACK
+2015,Premera,11000000,MED,HACK
+2015,US Office of Personnel Management,21500000,GOV,HACK
+2015,"UCLA Medical Center, Santa Monica",4500000,MED,HACK
+2015,CareFirst BlueCross Blue Shield - Maryland,1100000,MED,HACK
+2015,Medical Informatics Engineering,3900000,MED,HACK
+2015,Xat.com,6054459,BSR,PHYS
+2015,"Sakai City, Japan",680000,GOV,INSD
+2015,Slack,500000,tech,HACK
+2015,Patreon,2300000,BSR,HACK
+2015,Bailey's Inc.,250000,BSR,HACK
+2015,Scottrade,4600000,BSF,HACK
+2015,Walmart,1300000,BSR,HACK
+2015,VTech,5000000,BSR,HACK
+2015,Experian - T-Mobile US,15000000,telecoms,HACK
+2015,Ashley Madison,32000000,BSR,HACK
+2015,Japan Pension Service,1250000,special public corporation,HACK
+2015,Excellus BlueCross BlueShield,10000000,MED,HACK
+2015,Internal Revenue Service,720000,BSF,HACK
+2016,University of Central Florida,63000,EDU,HACK
+2016,"University of California, Berkeley",80000,EDU,HACK
+2016,Verizon Communications,1500000,telecoms,HACK
+2016,KM.RU,1500000,BSR,HACK
+2016,Weebly,43430316,BSR,HACK
+2016,Inuvik hospital,6700,MED,INSD
+2016,US Department of Homeland Security,30000,GOV,HACK
+2016,Funimation,2500000,BSR,HACK
+2016,Friend Finder Networks,412214295,BSR,HACK
+2016,Nival Networks,1500000,gaming,HACK
+2016,Nippon Television,430000,media,HACK
+2016,Central Coast Credit Union,60000,BSF,HACK
+2016,Cox Communications,40000,telecoms,HACK
+2016,Philippines Commission on Elections,55000000,GOV,HACK
+2016,21st Century Oncology,2200000,MED,HACK
+2016,Taobao,20000000,BSR,HACK
+2016,TaxSlayer.com,8800,BSR,HACK
+2017,Taringa!,28722877,BSR,HACK
+2017,Advocate Medical Group,4000000,MED,STAT
+2017,Grozio Chirurgija,25000,MED,HACK
+2017,Equifax,163119000,"BSF, credit reporting",HACK
+2017,Bell Canada,1900000,telecoms,HACK
+2017,Uber,57000000,transport,HACK
+2018,Blank Media Games,7633234,gaming,HACK
+2018,Popsugar,123857,fashion,HACK
+2018,Quora,100000000,Question & Answer,HACK
+2018,Orbitz,880000,BSR,HACK
+2018,Ticketfly (subsidiary of Eventbrite),26151608,ticket distribution,HACK
+2018,Google Plus,500000,social network,HACK
+2018,2018 British Airways cyberattack,500000,transport,HACK
+2018,Facebook,50000000,social network,HACK
+2018,Marriott International,500000000,hotel,HACK
+2018,Bell Canada,100000,telecoms,HACK
+2018,AerServ (subsidiary of InMobi),75000,advertising,HACK
+2018,Cathay Pacific Airways,9400000,transport,HACK
+2018,SingHealth,1500000,"GOV, database",HACK
+2018,BMO and Simplii,90000,banking,HACK
+2018,Air Canada,20000,transport,HACK
+2018,Centers for Medicare & Medicaid Services,75000,MED,HACK
+2018,United States Postal Service,60000000,GOV,HACK
+2018,HauteLook,28517244,BSR,HACK
+2018,Under Armour,150000000,Consumer Goods,HACK
+2018,MyHeritage,92283889,genealogy,UNKN
+2018,Exactis,340000000,data broker,HACK
