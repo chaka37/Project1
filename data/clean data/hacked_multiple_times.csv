@@ -1,0 +1,145 @@
+,Unnamed: 0,Year of Breach,Company Name,Total Records
+268,145,2014,Yahoo,500000000
+460,153,2014,AT&T,3
+534,232,2006,Citigroup,11
+544,243,2010,JP Morgan Chase,12
+1279,1004,2010,University of Florida,239
+1339,1065,2006,University of Iowa,280
+1482,1210,2007,University of Florida,415
+1499,1228,2006,LexisNexis,449
+1669,1406,2011,Health Care Service Corporation,501
+1706,1445,2007,Citigroup,519
+2021,1791,2015,Massachusetts General Hospital,648
+2083,1863,2015,Uber,674
+2441,2264,2015,County of Los Angeles,880
+2456,2280,2005,Cornell University,900
+2495,2325,2016,Aflac,930
+2500,2332,2014,Hospital for Special Surgery,937
+2667,2516,2016,Brigham and Women's Hospital,1009
+2698,2553,2018,Penn Medicine,1050
+2762,2626,2018,Yale University,1102
+2796,2662,2015,Walgreen Co.,1138
+2818,2686,2014,St. Francis Hospital,1175
+2840,2713,2012,Yale University,1200
+2842,2715,2005,Purdue University,1200
+2895,2776,2012,Walgreen Co.,1240
+3002,2900,2006,Purdue University,1351
+3008,2906,2017,Houston Methodist Hospital,1359
+3055,2963,2015,Mount Sinai Medical Center,1406
+3074,2985,2012,Kern Medical Center,1431
+3320,3262,2013,Group Health Incorporated,1771
+3363,3308,2017,Texas Health and Human Services,1842
+3483,3438,2012,Cornell University,2000
+3566,3529,2009,AT&T,2100
+3669,3645,2015,Henry Ford Health System,2336
+3731,3714,2014,Florida Department of Health,2477
+3741,3725,2006,Equifax,2500
+3806,3793,2010,Mount Sinai Medical Center,2600
+3866,3856,2012,Henry Ford Health System,2777
+3914,3913,2011,Rite Aid Corporation,2900
+3932,3934,2014,Humana,2962
+4100,4123,2012,Columbia University,3500
+4127,4154,2014,The University of Texas MD Anderson Cancer Center,3598
+4143,4171,2013,Florida Healthy Kids Corporation,3667
+4150,4178,2010,Henry Ford Health System,3700
+4231,4269,2012,Texas A&M University,4000
+4237,4275,2009,Comcast,4000
+4245,4287,2013,Oregon Health and Science University,4022
+4289,4335,2016,Massachusetts General Hospital,4293
+4295,4342,2013,CVS Caremark,4305
+4334,4385,2017,Walgreen Co.,4500
+4412,4473,2008,Health Net,5000
+4417,4478,2008,Columbia University,5000
+4431,4492,2014,Molina Healthcare,5000
+4501,4570,2017,Sentara Healthcare,5454
+4525,4596,2013,University of Florida,5682
+4535,4607,2007,University of Virginia,5735
+4538,4610,2017,Humana Inc,5764
+4557,4631,2005,Merlin Information Services,5875
+4598,4680,2017,Medical Mutual of Ohio,6119
+4602,4684,2015,Aflac,6166
+4615,4700,2013,University of South Carolina,6300
+4690,4787,2008,University of Virginia,7000
+4691,4788,2008,University of South Carolina,7000
+4692,4789,2010,City University of New York,7000
+4708,4810,2011,Purdue University,7093
+4710,4812,2013,University Hospitals,7100
+4726,4829,2010,"University of California, San Francisco",7300
+4727,4830,2013,Iowa Department of Human Services,7335
+4819,4935,2013,"University of California, San Francisco (UCSF)",8294
+4873,4993,2009,Eastern Illinois University,9000
+4917,5043,2012,Memorial Healthcare System,9497
+4944,5073,2005,Stanford University,9900
+4945,5074,2013,Holy Cross Hospital,9900
+4974,5105,2017,Stanford University,10000
+5004,5141,2007,Yale University,10200
+5005,5142,2009,Johns Hopkins Hospital,10200
+5026,5167,2007,Private Medical Practice,10600
+5071,5217,2008,University of Florida,11300
+5095,5244,2013,Wyoming Department of Health,11935
+5113,5263,2017,Aetna,12000
+5142,5295,2017,North Carolina Department of Health and Human Services,12731
+5151,5305,2015,CVS Health,12914
+5180,5336,2014,University of Miami,13074
+5190,5347,2009,LexisNexis,13329
+5289,5452,2013,Henry Ford Health System,15417
+5340,5508,2006,Humana,17000
+5346,5515,2012,Equifax,17000
+5359,5530,2013,Walgreen Co.,17350
+5362,5533,2005,Northwestern University,17500
+5373,5547,2005,Bank of America,18000
+5374,5548,2008,Ohio State University,18000
+5440,5622,2007,City University of New York,20000
+5464,5648,2010,Thomas Jefferson University Hospitals,21000
+5496,5682,2014,Cook County Health & Hospitals System,22511
+5502,5689,2006,Georgetown University Hospital,23000
+5514,5704,2017,Emory Healthcare,24000
+5604,5805,2013,The University of Texas MD Anderson Cancer Center,29021
+5622,5823,2005,University of Iowa,30000
+5623,5824,2005,Internal Revenue Service (IRS),30000
+5643,5846,2011,University of South Carolina,31000
+5675,5882,2010,County of Los Angeles,33000
+5688,5896,2010,Oregon State University,34000
+5716,5926,2008,Medical Mutual of Ohio,36000
+5786,6000,2011,Yale University,43000
+5808,6024,2009,Cornell University,45277
+5826,6044,2014,North Carolina Department of Health and Human Services,48752
+5827,6046,2005,"University of Colorado, Boulder",49000
+5843,6065,2017,Wells Fargo,50000
+5865,6088,2015,Molina Healthcare,54203
+5931,6161,2009,Aetna,65000
+5964,6196,2008,Stanford University,72000
+5969,6201,2013,University of Delaware,74000
+6027,6267,2007,Stony Brook University,90000
+6050,6291,2005,"University of California, Berkeley",98400
+6077,6322,2010,Colorado Department of Health Care Policy and Financing,105470
+6106,6352,2013,Kirkwood Community College,125000
+6136,6382,2013,Citigroup,146000
+6137,6383,2014,Indiana University,146000
+6151,6397,2009,"University of California, Berkeley",160000
+6155,6402,2005,Boeing,161000
+6182,6431,2006,Fidelity Investments,196000
+6229,6481,2012,TD Bank,260000
+6241,6494,2018,Oklahoma State University,279865
+6262,6516,2005,LexisNexis,310000
+6264,6518,2012,Emory Healthcare,315000
+6274,6528,2010,"Affinity Health Plan, Inc.",344579
+6292,6548,2016,Michigan State University,400000
+6294,6550,2016,California Correctional Health Care Services,400000
+6296,6552,2013,St. Joseph Health System,405000
+6326,6585,2015,Comcast,590000
+6329,6588,2010,Citigroup,600000
+6346,6605,2015,Internal Revenue Service,700000
+6352,6611,2010,Ohio State University,750000
+6386,6645,2009,Oklahoma Department of Human Services,1000000
+6396,6655,2014,Neiman Marcus,1100000
+6414,6674,2009,Health Net,1500000
+6431,6692,2014,Texas Health and Human Services,2000000
+6438,6699,2008,University of Miami,2100000
+6480,6745,2013,Facebook,6000000
+6512,6778,2016,Twitter,32000000
+6524,6790,2014,The Home Depot,56000000
+6525,6791,2017,Uber,57000000
+6529,6795,2018,T-Mobile,74000000
+6533,6799,2008,Facebook,80000000
+6553,6819,2016,Yahoo,500000000
