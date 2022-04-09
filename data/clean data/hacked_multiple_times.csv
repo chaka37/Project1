@@ -1,145 +1,534 @@
 ,Unnamed: 0,Year of Breach,Company Name,Total Records
-268,145,2014,Yahoo,500000000
-460,153,2014,AT&T,3
-534,232,2006,Citigroup,11
-544,243,2010,JP Morgan Chase,12
-1279,1004,2010,University of Florida,239
-1339,1065,2006,University of Iowa,280
-1482,1210,2007,University of Florida,415
-1499,1228,2006,LexisNexis,449
-1669,1406,2011,Health Care Service Corporation,501
-1706,1445,2007,Citigroup,519
-2021,1791,2015,Massachusetts General Hospital,648
-2083,1863,2015,Uber,674
-2441,2264,2015,County of Los Angeles,880
-2456,2280,2005,Cornell University,900
-2495,2325,2016,Aflac,930
-2500,2332,2014,Hospital for Special Surgery,937
-2667,2516,2016,Brigham and Women's Hospital,1009
-2698,2553,2018,Penn Medicine,1050
-2762,2626,2018,Yale University,1102
-2796,2662,2015,Walgreen Co.,1138
-2818,2686,2014,St. Francis Hospital,1175
-2840,2713,2012,Yale University,1200
-2842,2715,2005,Purdue University,1200
-2895,2776,2012,Walgreen Co.,1240
-3002,2900,2006,Purdue University,1351
-3008,2906,2017,Houston Methodist Hospital,1359
-3055,2963,2015,Mount Sinai Medical Center,1406
-3074,2985,2012,Kern Medical Center,1431
-3320,3262,2013,Group Health Incorporated,1771
-3363,3308,2017,Texas Health and Human Services,1842
-3483,3438,2012,Cornell University,2000
+6440,6701,2016,21st Century Oncology,2200000
+173,45,2010,AT&T,114000
 3566,3529,2009,AT&T,2100
-3669,3645,2015,Henry Ford Health System,2336
-3731,3714,2014,Florida Department of Health,2477
-3741,3725,2006,Equifax,2500
-3806,3793,2010,Mount Sinai Medical Center,2600
-3866,3856,2012,Henry Ford Health System,2777
-3914,3913,2011,Rite Aid Corporation,2900
-3932,3934,2014,Humana,2962
-4100,4123,2012,Columbia University,3500
-4127,4154,2014,The University of Texas MD Anderson Cancer Center,3598
-4143,4171,2013,Florida Healthy Kids Corporation,3667
-4150,4178,2010,Henry Ford Health System,3700
-4231,4269,2012,Texas A&M University,4000
-4237,4275,2009,Comcast,4000
-4245,4287,2013,Oregon Health and Science University,4022
-4289,4335,2016,Massachusetts General Hospital,4293
-4295,4342,2013,CVS Caremark,4305
-4334,4385,2017,Walgreen Co.,4500
-4412,4473,2008,Health Net,5000
-4417,4478,2008,Columbia University,5000
-4431,4492,2014,Molina Healthcare,5000
-4501,4570,2017,Sentara Healthcare,5454
-4525,4596,2013,University of Florida,5682
-4535,4607,2007,University of Virginia,5735
-4538,4610,2017,Humana Inc,5764
-4557,4631,2005,Merlin Information Services,5875
-4598,4680,2017,Medical Mutual of Ohio,6119
-4602,4684,2015,Aflac,6166
-4615,4700,2013,University of South Carolina,6300
-4690,4787,2008,University of Virginia,7000
-4691,4788,2008,University of South Carolina,7000
-4692,4789,2010,City University of New York,7000
-4708,4810,2011,Purdue University,7093
-4710,4812,2013,University Hospitals,7100
-4726,4829,2010,"University of California, San Francisco",7300
-4727,4830,2013,Iowa Department of Human Services,7335
-4819,4935,2013,"University of California, San Francisco (UCSF)",8294
-4873,4993,2009,Eastern Illinois University,9000
-4917,5043,2012,Memorial Healthcare System,9497
-4944,5073,2005,Stanford University,9900
-4945,5074,2013,Holy Cross Hospital,9900
-4974,5105,2017,Stanford University,10000
-5004,5141,2007,Yale University,10200
-5005,5142,2009,Johns Hopkins Hospital,10200
-5026,5167,2007,Private Medical Practice,10600
-5071,5217,2008,University of Florida,11300
-5095,5244,2013,Wyoming Department of Health,11935
+460,153,2014,AT&T,3
+1272,997,2012,Adobe,230
 5113,5263,2017,Aetna,12000
-5142,5295,2017,North Carolina Department of Health and Human Services,12731
-5151,5305,2015,CVS Health,12914
-5180,5336,2014,University of Miami,13074
-5190,5347,2009,LexisNexis,13329
-5289,5452,2013,Henry Ford Health System,15417
-5340,5508,2006,Humana,17000
-5346,5515,2012,Equifax,17000
-5359,5530,2013,Walgreen Co.,17350
-5362,5533,2005,Northwestern University,17500
-5373,5547,2005,Bank of America,18000
-5374,5548,2008,Ohio State University,18000
-5440,5622,2007,City University of New York,20000
-5464,5648,2010,Thomas Jefferson University Hospitals,21000
-5496,5682,2014,Cook County Health & Hospitals System,22511
-5502,5689,2006,Georgetown University Hospital,23000
-5514,5704,2017,Emory Healthcare,24000
-5604,5805,2013,The University of Texas MD Anderson Cancer Center,29021
-5622,5823,2005,University of Iowa,30000
-5623,5824,2005,Internal Revenue Service (IRS),30000
-5643,5846,2011,University of South Carolina,31000
-5675,5882,2010,County of Los Angeles,33000
-5688,5896,2010,Oregon State University,34000
-5716,5926,2008,Medical Mutual of Ohio,36000
-5786,6000,2011,Yale University,43000
-5808,6024,2009,Cornell University,45277
-5826,6044,2014,North Carolina Department of Health and Human Services,48752
-5827,6046,2005,"University of Colorado, Boulder",49000
-5843,6065,2017,Wells Fargo,50000
-5865,6088,2015,Molina Healthcare,54203
+4625,4710,2010,Aetna,6372
 5931,6161,2009,Aetna,65000
-5964,6196,2008,Stanford University,72000
-5969,6201,2013,University of Delaware,74000
-6027,6267,2007,Stony Brook University,90000
-6050,6291,2005,"University of California, Berkeley",98400
-6077,6322,2010,Colorado Department of Health Care Policy and Financing,105470
-6106,6352,2013,Kirkwood Community College,125000
-6136,6382,2013,Citigroup,146000
-6137,6383,2014,Indiana University,146000
-6151,6397,2009,"University of California, Berkeley",160000
-6155,6402,2005,Boeing,161000
-6182,6431,2006,Fidelity Investments,196000
-6229,6481,2012,TD Bank,260000
-6241,6494,2018,Oklahoma State University,279865
-6262,6516,2005,LexisNexis,310000
-6264,6518,2012,Emory Healthcare,315000
+5401,5577,2016,Aetna Inc.,18854
+3672,3648,2010,"Aetna, Inc.",2345
+6299,6555,2010,Affinity Health Plan,409262
+2195,1986,2015,"Affinity Health Plan, Inc.",721
 6274,6528,2010,"Affinity Health Plan, Inc.",344579
-6292,6548,2016,Michigan State University,400000
+4602,4684,2015,Aflac,6166
+2495,2325,2016,Aflac,930
+1560,1289,2017,Aflac,500
+3196,3124,2007,Alabama Department of Public Health,1554
+4168,4196,2013,Allina Health,3800
+5347,5516,2006,Allina Hospitals and Clinics,17000
+4583,4663,2019,AltaMed Health Services Corporation,6000
+2877,2753,2016,Alton Lane,1208
+1440,1168,2007,American Airlines,365
+4714,4816,2016,"American Family Care, Inc.",7200
+6534,6800,2015,Anthem,80000000
+5651,5855,2011,Anthem Blue Cross,31125
+5394,5570,2017,"Anthem, Inc.",18580
+5885,6112,2008,Aon Consulting,57160
+1666,1403,2013,Arizona Oncology,501
+3131,3049,2005,Austin Peay State University,1500
+6403,6663,2010,"AvMed, Inc.",1220000
+2516,2349,2014,Aventura Hospital and Medical Center,948
+5256,5419,2016,Bailey's Inc.,15000
+5373,5547,2005,Bank of America,18000
+1360,1086,2011,Bank of America,300
+1542,1271,2018,Bank of the West,500
+6459,6721,2016,Banner Health,3620000
+4087,4110,2018,Baptist Health,3453
+3251,3185,2012,Baptist Health System,1655
+1732,1473,2017,Baptist Medical Center South,531
+3247,3180,2010,Baylor College of Medicine,1646
+6258,6512,2015,Beacon Health System,306789
+3391,3337,2014,Beebe Medical Center,1883
+319,198,2018,Bell Canada,100000
+4193,4226,2012,Beth Israel Deaconess Medical Center,3900
+6018,6258,2012,Bethpage Federal Credit Union,86000
+6066,6310,2009,Binghamton University,100000
+5120,5270,2010,Blue Cross & Blue Shield of Rhode Island,12000
+3364,3309,2017,Blue Cross Blue Shield of Massachusetts,1843
+2122,1905,2013,Blue Cross and Blue Shield of North Carolina,687
+6155,6402,2005,Boeing,161000
+5719,5929,2017,Boeing,36000
+6147,6393,2014,Boxee,158128
+2667,2516,2016,Brigham and Women's Hospital,1009
+2577,2421,2014,Brigham and Women's Hospital,999
+5044,5187,2013,Bronx Lebanon Hospital Center,10930
+2919,2802,2010,Brooke Army Medical Center,1272
+4454,4521,2007,Brunswick Corp.,5100
+4091,4114,2011,CVS Caremark,3482
+4295,4342,2013,CVS Caremark,4305
+5151,5305,2015,CVS Health,12914
+2198,1989,2017,CVS Health,724
+2594,2438,2007,CVS Pharmacy,1000
+2088,1868,2008,Cal Poly Pomona,675
+5940,6171,2009,CalOptima,68000
 6294,6550,2016,California Correctional Health Care Services,400000
-6296,6552,2013,St. Joseph Health System,405000
-6326,6585,2015,Comcast,590000
+2653,2502,2013,California Correctional Health Care Services,1001
+5475,5660,2005,California Department of Health Services,21600
+3779,3765,2010,California Department of Public Health,2550
+4866,4986,2011,California Department of Public Health (CDPH),9000
+2904,2786,2010,California Therapy Solutions,1250
+4022,4037,2011,Cancer Care Northwest,3150
+6307,6563,2019,"CareCentrix, Inc.",467621
+6398,6657,2015,CareFirst BlueCross BlueShield,1100000
+2600,2444,2008,Cedars-Sinai Medical Center,1000
+5097,5247,2011,Centra,11982
+4276,4321,2015,"Central Brooklyn Medical Group, PC",4223
+6089,6335,2013,Central Hudson Gas & Electric,110000
+2243,2044,2012,Central States Southeast and Southwest Areas Health and Welfare Fund,754
+5757,5970,2007,Chicago Public Schools,40000
+4167,4195,2010,Children's Medical Center of Dallas,3800
+4511,4581,2017,Children's Mercy Hospital,5511
+5380,5554,2015,Children's National Medical Center,18000
+6157,6405,2005,ChoicePoint,163000
+4106,4130,2018,Cigna,3500
+6279,6534,2011,Citibank,360000
+1706,1445,2007,Citigroup,519
+6136,6382,2013,Citigroup,146000
 6329,6588,2010,Citigroup,600000
-6346,6605,2015,Internal Revenue Service,700000
-6352,6611,2010,Ohio State University,750000
-6386,6645,2009,Oklahoma Department of Human Services,1000000
-6396,6655,2014,Neiman Marcus,1100000
-6414,6674,2009,Health Net,1500000
-6431,6692,2014,Texas Health and Human Services,2000000
-6438,6699,2008,University of Miami,2100000
+241,117,2013,Citigroup,150000
+534,232,2006,Citigroup,11
+5440,5622,2007,City University of New York,20000
+2262,2064,2005,City University of New York,771
+4692,4789,2010,City University of New York,7000
+4076,4099,2017,City of Hope,3400
+4300,4347,2012,"Clearpoint Design, Inc.",4343
+2558,2402,2014,"Clinical Reference Laboratory, Inc.",979
+5663,5869,2013,"Cogent Healthcare, Inc.",32000
+6077,6322,2010,Colorado Department of Health Care Policy and Financing,105470
+4123,4149,2011,Colorado Department of Health Care Policy and Financing,3589
+4417,4478,2008,Columbia University,5000
+3039,2946,2009,Columbia University,1400
+4100,4123,2012,Columbia University,3500
+6326,6585,2015,Comcast,590000
+4237,4275,2009,Comcast,4000
+1353,1079,2012,Comcast,294
+6283,6538,2016,Community Health Plan of Washington,381504
+6467,6730,2014,Community Health Systems,4500000
+6094,6340,2016,Community Mercy Health Partners,113528
+685,391,2018,Community health network,25
+4403,4464,2010,Connecticut Department of Labor,5000
+5496,5682,2014,Cook County Health & Hospitals System,22511
+2204,1996,2017,Cook County Health & Hospitals System,727
+1246,969,2006,Cornell University,210
+3483,3438,2012,Cornell University,2000
+2456,2280,2005,Cornell University,900
+5808,6024,2009,Cornell University,45277
+5675,5882,2010,County of Los Angeles,33000
+2070,1848,2011,County of Los Angeles,667
+2441,2264,2015,County of Los Angeles,880
+6053,6294,2013,"Crescent Health Inc., Walgreens",100000
+466,160,2017,Deaconess hospital,4
+2979,2871,2018,Dean Health Plan,1311
+4274,4319,2019,Delta Dental of Illinois,4216
+6224,6475,2017,Department of Homeland Security,246167
+6181,6429,2013,Digital Archive Management,189489
+6527,6793,2012,Dropbox,68000000
+5046,5190,2014,Duke University Health System,10993
+3739,3723,2010,Eastern Bank,2499
+3035,2941,2007,Eastern Illinois University,1400
+4873,4993,2009,Eastern Illinois University,9000
+6453,6715,2010,Educational Credit Management Corporation,3300000
+6002,6240,2016,Emblem Health - GHI,81122
+5514,5704,2017,Emory Healthcare,24000
+6264,6518,2012,Emory Healthcare,315000
+3704,3681,2011,Emory Healthcare,2400
+5346,5515,2012,Equifax,17000
+753,462,2010,Equifax,35
+3741,3725,2006,Equifax,2500
+6522,6788,2013,Evernote,50000000
+6550,6816,2018,Exactis,340000000
+373,50,2018,Exam one,1
+6499,6765,2015,Experian,15000000
+317,196,2018,Facebook,50000000
 6480,6745,2013,Facebook,6000000
-6512,6778,2016,Twitter,32000000
-6524,6790,2014,The Home Depot,56000000
-6525,6791,2017,Uber,57000000
-6529,6795,2018,T-Mobile,74000000
 6533,6799,2008,Facebook,80000000
+6100,6346,2017,FedEx,119000
+2216,2011,2016,Fidelis Care,738
+1419,1147,2017,Fidelity Investments,348
+6182,6431,2006,Fidelity Investments,196000
+6055,6296,2012,Florida Department of Children and Families,100000
+3731,3714,2014,Florida Department of Health,2477
+3653,3627,2013,Florida Department of Health,2300
+6056,6297,2013,Florida Department of Juvenile Justice,100000
+4143,4171,2013,Florida Healthy Kids Corporation,3667
+3495,3450,2017,Florida Healthy Kids Corporation,2000
+5116,5266,2011,Florida Hospital,12000
+6300,6556,2012,Formspring,420000
+4824,4941,2014,Franciscan Medical Group,8300
+467,161,2013,Franciscan health indianapolis,4
+4900,5024,2006,Frost Bank,9300
+6449,6711,2012,Gamigo,3000000
+6357,6616,2007,Gap Inc.,800000
+6407,6667,2010,Gawker,1300000
+5770,5984,2006,Georgetown University,41000
+5502,5689,2006,Georgetown University Hospital,23000
+3711,3689,2010,Georgetown University Hospital,2416
+6322,6581,2006,Georgia Technology Authority (GTA),573000
+2785,2650,2018,Gordon Schanzlin New Vision Institute,1130
+6071,6315,2006,Greenville County School District,101000
+3320,3262,2013,Group Health Incorporated,1771
+2314,2125,2014,Group Health Incorporated,802
+1722,1462,2007,Hartford Life Insurance Company,526
+4649,4738,2008,Harvard University,6600
+2532,2369,2015,Haywood County NC,955
+1669,1406,2011,Health Care Service Corporation,501
+1668,1405,2012,Health Care Service Corporation,501
+6414,6674,2009,Health Net,1500000
+4412,4473,2008,Health Net,5000
+619,321,2010,Health Net,18
+5289,5452,2013,Henry Ford Health System,15417
+3866,3856,2012,Henry Ford Health System,2777
+4150,4178,2010,Henry Ford Health System,3700
+3669,3645,2015,Henry Ford Health System,2336
+1883,1636,2017,Henry Ford Health System,596
+4152,4180,2010,Henry Ford Hospital,3700
+4945,5074,2013,Holy Cross Hospital,9900
+3165,3087,2010,Holy Cross Hospital,1500
+1239,962,2007,Home Depot,204
+6251,6505,2008,Horizon Blue Cross Blue Shield,300000
+6367,6626,2014,"Horizon Healthcare Services, Inc., doing business as Horizon Blue Cross Blue Shield of New Jersey, and its affiliates",839711
+2017,1786,2016,Hospital for Special Surgery,647
+2500,2332,2014,Hospital for Special Surgery,937
+3008,2906,2017,Houston Methodist Hospital,1359
+2993,2887,2014,Houston Methodist Hospital,1341
+5340,5508,2006,Humana,17000
+3932,3934,2014,Humana,2962
+3871,3863,2015,Humana,2800
+2414,2234,2019,Humana Inc,863
+4538,4610,2017,Humana Inc,5764
+4530,4601,2012,Humboldt State University,5700
+6427,6688,2011,IBM,1900000
+6509,6775,2016,IRS,28200000
+4011,4022,2013,Illinois Department of Healthcare and Family Services,3100
+6137,6383,2014,Indiana University,146000
+4047,4068,2011,Indiana University,3266
+6072,6316,2016,Internal Revenue Service,101000
+6346,6605,2015,Internal Revenue Service,700000
+4969,5100,2013,Internal Revenue Service (IRS),10000
+5623,5824,2005,Internal Revenue Service (IRS),30000
+3991,4001,2012,Iowa Department of Human Services,3000
+4727,4830,2013,Iowa Department of Human Services,7335
+5615,5816,2014,Iowa State University,29780
+1436,1164,2018,Ithaca college,359
+544,243,2010,JP Morgan Chase,12
+261,138,2014,JP Morgan Chase,76000000
+3198,3126,2011,Jackson Health System,1562
+4639,4727,2011,Jefferson County Public Schools,6500
+4647,4736,2018,"Jemison Internal Medicine, PC",6550
+5721,5931,2014,Jersey City Medical Center,36400
+3942,3944,2014,Jewish Hospital,2992
+5005,5142,2009,Johns Hopkins Hospital,10200
+4540,4612,2007,Johns Hopkins Hospital,5783
+1832,1578,2011,"KCI USA, Inc.",567
+5619,5820,2012,Kaiser Foundation Health Plan,30000
+5088,5236,2014,Kaiser Foundation Health Plan of Colorado,11551
+2018,1787,2013,Kaiser Foundation Health Plan of the Northwest,647
+3720,3701,2016,"Kaiser Foundation Health Plan, Inc.",2451
+5610,5811,2009,Kaiser Permanente,29500
+949,663,2008,Kansas State University,86
+1885,1638,2009,Kern Medical Center,596
+3074,2985,2012,Kern Medical Center,1431
+6106,6352,2013,Kirkwood Community College,125000
+3223,3153,2009,Kirkwood Community College,1600
+5137,5288,2013,Kmart Corporation,12542
+778,488,2007,LPL Financial,40
+1730,1471,2017,Ledet Family Chiropractic Cener,530
+4171,4199,2010,Lee Memorial Health System,3800
+6262,6516,2005,LexisNexis,310000
+5190,5347,2009,LexisNexis,13329
+1499,1228,2006,LexisNexis,449
+1257,981,2007,LexisNexis,220
+6540,6806,2016,LinkedIn,117000000
+3913,3912,2012,"Logan Community Resources, Inc.",2900
+4841,4960,2015,Lone Star Circle of Care,8700
+3901,3899,2013,Long Beach Memorial Medical Center,2864
+1193,916,2010,Los Angeles County Department of Public Social Services,197
+4018,4031,2016,"MGA Home Healthcare Colorado, Inc.",3119
+4890,5014,2017,Madison Street Provider Network,9129
+6549,6815,2018,Marriott International,327000000
+6201,6451,2005,Marriott International Inc.,206000
+4188,4221,2012,Maryville Academy,3897
+4133,4160,2012,Massachusetts Eye and Ear Infirmary,3600
+1868,1621,2018,Massachusetts General Hospital,588
+2021,1791,2015,Massachusetts General Hospital,648
+4289,4335,2016,Massachusetts General Hospital,4293
+1341,1067,2012,McDonald's,282
+4921,5047,2017,Medical College of Wisconsin,9500
+6284,6540,2015,Medical Informatics Engineering,390000
+5716,5926,2008,Medical Mutual of Ohio,36000
+4598,4680,2017,Medical Mutual of Ohio,6119
+3066,2976,2014,Medical Mutual of Ohio,1420
+4917,5043,2012,Memorial Healthcare System,9497
+3325,3267,2014,Memorial Healthcare System,1782
+5123,5273,2016,Memorial Hermann Health System,12061
+4291,4338,2008,Memorial Hospital,4300
+2366,2184,2017,Memorial Hospital Clinic South,842
+5639,5842,2019,Memorial Hospital at Gulfport,30642
+3635,3608,2013,Memorial Sloan-Kettering Cancer Center,2279
+4212,4249,2006,Merlin Information Services,3957
+4557,4631,2005,Merlin Information Services,5875
+5671,5878,2007,Merrill Lynch,33000
+4275,4320,2017,Metropolitan Life Insurance Company,4220
+5478,5663,2005,Miami University,21762
+6443,6705,2013,Michaels Stores Inc.,2600000
+5564,5762,2005,Michigan State University,27000
+6292,6548,2016,Michigan State University,400000
+3109,3024,2016,Midland County Hospital District d/b/a Midland Memorial Hospital,1468
+4593,4674,2011,Missouri State University,6030
+5865,6088,2015,Molina Healthcare,54203
+4431,4492,2014,Molina Healthcare,5000
+3024,2927,2017,Molina Healthcare,1380
+5064,5209,2011,Molina Healthcare of California,11081
+1318,1044,2006,Montana State University,259
+5136,5287,2015,Montefiore Medical Center,12517
+3806,3793,2010,Mount Sinai Medical Center,2600
+3055,2963,2015,Mount Sinai Medical Center,1406
+1936,1695,2013,Mount Sinai Medical Center,610
+3640,3613,2011,Mountain Vista Medical Center,2291
+6535,6801,2018,MyHeritage,92283900
+6551,6817,2016,MySpace,360000000
+3301,3239,2019,"Myriad Genetic Laboratories, Inc.",1719
+3785,3771,2010,NYU Hospitals Center,2563
+4835,4953,2012,NYU School of Medicine Faculty Group Practice,8488
+6396,6655,2014,Neiman Marcus,1100000
+4465,4532,2016,Neiman Marcus,5200
+6323,6582,2009,Network Solutions,573000
+5277,5440,2016,New Hampshire Department of Health and Human Services,15000
+4942,5071,2013,New Jersey Department of Human Services,9825
+5480,5665,2016,New York State Office of Mental Health,21880
+5485,5671,2016,New York State Psychiatric Institute,22000
+5625,5827,2006,New York University,30000
+5826,6044,2014,North Carolina Department of Health and Human Services,48752
+5142,5295,2017,North Carolina Department of Health and Human Services,12731
+2955,2844,2013,North Carolina Department of Health and Human Services,1300
+5341,5509,2006,Northwestern University,17000
+5362,5533,2005,Northwestern University,17500
+2722,2582,2017,Nova Southeastern University,1086
+2053,1829,2016,"Ocean Acquisitions, Inc.",659
+6485,6750,2012,Office of the Texas Attorney General,6500000
+6352,6611,2010,Ohio State University,750000
+4095,4118,2007,Ohio State University,3500
+5374,5548,2008,Ohio State University,18000
+3872,3866,2005,Ohio State University Medical Center,2800
+5817,6035,2017,Oklahoma Department of Human Services,47000
+6386,6645,2009,Oklahoma Department of Human Services,1000000
+5955,6187,2008,Oklahoma State University,70000
+6241,6494,2018,Oklahoma State University,279865
+2663,2512,2011,Onehitplay.com,1008
+6375,6634,2016,Orbitz,880000
+2712,2571,2013,Oregon Health & Science University,1076
+4245,4287,2013,Oregon Health and Science University,4022
+4229,4267,2009,Oregon Health and Science University,4000
+5688,5896,2010,Oregon State University,34000
+5471,5655,2012,Oregon State University,21000
+2434,2255,2013,Palm Beach County Health Department,877
+4902,5027,2009,Parkland Memorial Hospital,9300
+1917,1672,2015,Pathway to Hope,600
+3432,3384,2017,PeaceHealth,1969
+2619,2464,2017,Penn Medicine,1000
+2698,2553,2018,Penn Medicine,1050
+5769,5983,2010,Penn State,40806
+5630,5832,2009,Penn State University,30000
+5163,5318,2008,Pfizer,13000
+4854,4974,2015,Pittman Family Dental,8830
+3044,2952,2010,Private Dental Practice,1400
+5026,5167,2007,Private Medical Practice,10600
+1906,1660,2010,Private Medical Practice,600
+3002,2900,2006,Purdue University,1351
+4708,4810,2011,Purdue University,7093
+2842,2715,2005,Purdue University,1200
+2544,2386,2009,Purdue University,962
+4348,4399,2018,"RGH Enterprises, Inc.",4586
+5841,6063,2016,Regional Income Tax Agency,50000
+3914,3913,2011,Rite Aid Corporation,2900
+3671,3647,2015,Rite Aid Corporation,2345
+4785,4896,2015,Riverside County Regional Medical Center,7925
+2485,2312,2013,Riverside Health System,919
+4661,4750,2018,Ron's Pharmacy Services,6781
+5708,5918,2019,Roper St. Francis Healthcare,35253
+5032,5173,2013,Rotech Healthcare Inc.,10680
+3181,3104,2015,Rush University Medical Center,1529
+5235,5395,2015,"Sacred Heart Health System, Inc.",14177
+4012,4023,2013,Saint Louis University,3100
+5983,6217,2017,Salina Family Healthcare Center,77337
+2469,2293,2018,San Francisco Department of Public Health,900
+6372,6631,2007,Science Applications International Corp. (SAIC),867000
+6470,6735,2015,Scottrade,4600000
+6068,6312,2013,Scribd,100000
+6217,6467,2011,"Seacoast Radiology, PA",231400
+6406,6666,2011,Sega,1290000
+4185,4217,2014,Sentara Healthcare,3861
+4501,4570,2017,Sentara Healthcare,5454
+2143,1927,2016,Snapchat,700
+5921,6149,2011,Social Security Administration (SSA),63587
+5907,6135,2005,Sonoma State University,61709
+5816,6034,2014,Sony Pictures,47000
+4238,4276,2014,South Texas Veterans Health Care System,4000
+3515,3474,2010,"Southern Perioperative Services, P.C.",2000
+2527,2363,2014,Southwest General Health Center,953
+5578,5777,2012,"Sovereign Medical Group, LLC",27800
+6295,6551,2011,Spartanburg Regional Healthcare System,400000
+5210,5368,2018,Special Agents Mutual Benefit Association,13942
+4667,4758,2012,St. Elizabeth's Medical Center,6831
+2818,2686,2014,St. Francis Hospital,1175
+1517,1246,2011,St. Francis Hospital,474
+5126,5276,2012,St. Joseph Health System,12234
+6296,6552,2013,St. Joseph Health System,405000
+3940,3942,2012,St. Mark's Medical Center,2988
+5916,6144,2014,"St. Vincent Hospital and Health Care Center, Inc.",63325
+4944,5073,2005,Stanford University,9900
+4974,5105,2017,Stanford University,10000
+5964,6196,2008,Stanford University,72000
+3209,3139,2012,Stanford University,1593
+6048,6288,2008,Starbucks Corp.,97000
+5905,6133,2010,Stony Brook University,61001
+6027,6267,2007,Stony Brook University,90000
+6378,6637,2011,Sutter Medical Foundation,943434
+6529,6795,2018,T-Mobile,74000000
+6528,6794,2017,T-Mobile,69600000
+6188,6437,2005,TD Ameritrade,200000
+6229,6481,2012,TD Bank,260000
+505,202,2014,TD Bank,8
+2683,2534,2015,Tennessee Rural Health Improvement Association,1030
+4007,4018,2007,Tennessee Tech University,3100
+4231,4269,2012,Texas A&M University,4000
+824,535,2007,Texas A&M University,49
+6431,6692,2014,Texas Health and Human Services,2000000
+3363,3308,2017,Texas Health and Human Services,1842
+3269,3205,2011,Texas Health and Human Services,1696
+3270,3206,2011,Texas Health and Human Services Commission,1696
+6024,6264,2008,Texas Lottery Commission,89000
+4487,4555,2018,The Children's Hospital of Philadelphia,5368
+5632,5834,2013,The Home Depot,30000
+6524,6790,2014,The Home Depot,56000000
+5783,5997,2014,The Union Labor Life Insurance Company,42713
+3634,3605,2012,The University of Texas MD Anderson Cancer Center,2264
+4127,4154,2014,The University of Texas MD Anderson Cancer Center,3598
+5604,5805,2013,The University of Texas MD Anderson Cancer Center,29021
+5464,5648,2010,Thomas Jefferson University Hospitals,21000
+4021,4036,2011,Thomas Jefferson University Hospitals,3150
+5472,5657,2010,"Thomas Jefferson University Hospitals, Inc.",21000
+6062,6305,2007,Transportation Security Administration (TSA),100000
+5191,5348,2013,Triple S Salud Inc.,13336
+6287,6543,2010,"Triple-S Salud, Inc.",398000
+6080,6326,2005,Tufts University,106000
+6526,6792,2016,Tumblr,65469300
+6512,6778,2016,Twitter,32000000
+6226,6478,2013,Twitter,250000
+5777,5991,2009,U.S. Army,42000
+5218,5376,2006,U.S. Department of Defense,14000
+6075,6320,2013,U.S. Department of Energy,104000
+6173,6421,2007,U.S. Department of Veteran Affairs,185000
+2146,1930,2006,U.S. State Department,700
+3856,3846,2011,UCLA Health System,2761
+2942,2828,2017,UNC Health Care,1298
+3628,3599,2015,UPMC,2259
+3226,3156,2009,US Army,1600
+3869,3861,2018,UT Physicians,2793
+309,188,2017,Uber,57000000
+2083,1863,2015,Uber,674
+6525,6791,2017,Uber,57000000
+6545,6811,2018,Under Armour,150000000
+2783,2648,2013,Union Security Insurance Company,1127
+3959,3961,2007,United States Postal Service,3000
+4655,4744,2012,UnitedHealth Group health plan single affiliated covered entity,6678
+5311,5474,2018,UnityPoint Health,16000
+2348,2165,2015,University Hospitals,833
+4710,4812,2013,University Hospitals,7100
+2849,2722,2007,University of Akron,1200
+5729,5939,2009,University of Alabama,37000
+4885,5009,2013,University of Arizona,9080
+4712,4814,2012,University of Arkansas for Medical Sciences,7121
+288,167,2016,"University of California, Berkeley",80000
+6151,6397,2009,"University of California, Berkeley",160000
+6050,6291,2005,"University of California, Berkeley",98400
+4726,4829,2010,"University of California, San Francisco",7300
+4117,4143,2013,"University of California, San Francisco",3553
+4819,4935,2013,"University of California, San Francisco (UCSF)",8294
+4685,4782,2005,"University of California, San Francisco (UCSF)",7000
+5913,6141,2016,University of Central Florida,63000
+5805,6021,2007,"University of Colorado, Boulder",45000
+5827,6046,2005,"University of Colorado, Boulder",49000
+5969,6201,2013,University of Delaware,74000
+2525,2361,2005,University of Delaware,952
+4525,4596,2013,University of Florida,5682
+5071,5217,2008,University of Florida,11300
+1256,980,2012,University of Florida,220
+1482,1210,2007,University of Florida,415
+1279,1004,2010,University of Florida,239
+4280,4325,2008,University of Georgia,4250
+6138,6384,2005,University of Hawai'i,150000
+3832,3820,2007,University of Idaho,2700
+1250,974,2008,University of Iowa,216
+5622,5823,2005,University of Iowa,30000
+1339,1065,2006,University of Iowa,280
+3525,3486,2010,University of Kentucky,2027
+4321,4371,2012,University of Kentucky HealthCare,4490
+2176,1962,2010,University of Louisville,709
+4346,4397,2010,University of Maine,4585
+6261,6515,2014,University of Maryland,309079
+2884,2765,2012,University of Miami,1219
+6438,6699,2008,University of Miami,2100000
+5180,5336,2014,University of Miami,13074
+5927,6156,2012,University of Miami Health System,64846
+4741,4847,2017,University of Mississippi Medical Center,7492
+3040,2947,2009,University of Nebraska,1400
+3956,3958,2007,University of New Mexico,3000
+3679,3656,2012,University of New Mexico Health Sciences Center,2365
+4641,4730,2013,University of North Carolina - Chapel Hill,6500
+4568,4643,2006,University of Northern Iowa,6000
+2956,2845,2013,University of Pittsburgh Medical Center,1300
+1501,1230,2009,University of Rochester,450
+4079,4102,2015,University of Rochester Medical Center and Affiliates,3403
+3121,3038,2007,University of South Carolina,1482
+5643,5846,2011,University of South Carolina,31000
+4615,4700,2013,University of South Carolina,6300
+4691,4788,2008,University of South Carolina,7000
+5715,5925,2006,University of Tennessee,36000
+4804,4918,2010,University of Tennessee Medical Center,8000
+4638,4726,2008,University of Toledo,6488
+4535,4607,2007,University of Virginia,5735
+4690,4787,2008,University of Virginia,7000
+3083,2994,2016,University of Virginia,1440
+3390,3336,2018,University of Virginia Medical Center,1882
+5894,6122,2010,University of Wisconsin - Madison,60000
+3462,3417,2007,Utah Department of Workforce Services,2000
+3582,3545,2016,VA Eastern Colorado Health Care System,2130
+2684,2535,2018,VA Long Beach Healthcare System,1030
+6476,6741,2015,VTech,5100000
+6161,6409,2010,Valdosta State University,170000
+2991,2885,2015,Ventura County Health Care Agency,1339
+5252,5415,2019,Verity Medical Foundation,14894
+6166,6414,2011,Virginia Commonwealth University,176567
+6134,6380,2013,Virginia Polytechnic Institute and State University (Virginia Tech),144963
+6318,6575,2009,Virginia Prescription Monitoring Program,531400
+971,685,2006,Visiting Nurse Service of New York (VNSNY),92
+5359,5530,2013,Walgreen Co.,17350
+2796,2662,2015,Walgreen Co.,1138
+4334,4385,2017,Walgreen Co.,4500
+2438,2259,2016,Walgreen Co.,880
+2895,2776,2012,Walgreen Co.,1240
+3103,3017,2016,Washington National Insurance Company,1458
+4209,4245,2011,Washington State Department of Social and Health Services,3950
+6387,6646,2014,Washington State University,1000000
+6000,6238,2017,Washington University School of Medicine,80270
+6520,6786,2016,Weebly,43430300
+2880,2759,2017,"WellCare Health Plans, Inc.",1214
+4419,4480,2008,Wells Fargo,5000
+5843,6065,2017,Wells Fargo,50000
+6190,6439,2007,West Virginia Public Employees Insurance Agency,200000
+4939,5068,2017,"Westminster Ingleside King Farm Presbyterian Retirement Communities, Inc.",9769
+6311,6568,2010,Wyndham Hotels & Resorts,500000
+5095,5244,2013,Wyoming Department of Health,11935
+4874,4994,2010,Wyoming Department of Health,9000
+268,145,2014,Yahoo,500000000
+237,112,2013,Yahoo,3000000000
 6553,6819,2016,Yahoo,500000000
+6304,6560,2012,Yahoo! Voices,453492
+5004,5141,2007,Yale University,10200
+5786,6000,2011,Yale University,43000
+2840,2713,2012,Yale University,1200
+2762,2626,2018,Yale University,1102
+2648,2497,2010,Yale University,1000
